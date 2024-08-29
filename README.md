@@ -13,9 +13,11 @@ Features
 
 Installation
 To clone and set up this project locally, follow these steps:
+```bash
 https://github.com/dek8v5/CorNet.git
 cd CorNet
 pip install -r requirements.txt
+```
 
 Usage
 Training
@@ -29,3 +31,16 @@ Below is a comparison of CorNet with ASIFT:
 
 Citation
 If you find this repository useful in your research, please consider citing:
+```bibtex
+@inproceedings{Kharismawati2020CorNet,
+  author    = {Dewi Endah Kharismawati and Hadi A. Akbarpour and Reza Aktar and Filiz Bunyak and Kannappan Palaniappan and Tomislav Kazic},
+  title     = {CorNet: Unsupervised Deep Homography Estimation for Agricultural Aerial Imagery},
+  booktitle = {Computer Vision -- ECCV 2020 Workshops},
+  editor    = {Andrea Bartoli and Andrea Fusiello},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12540},
+  year      = {2020},
+  publisher = {Springer, Cham},
+  doi       = {10.1007/978-3-030-65414-6_28},
+}
+
