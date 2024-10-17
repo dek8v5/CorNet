@@ -33,7 +33,7 @@ Citation
 If you find this repository useful in your research, please consider citing:
 ```bibtex
 @inproceedings{Kharismawati2020CorNet,
-  author    = {Dewi Endah Kharismawati and Hadi A. Akbarpour and Reza Aktar and Filiz Bunyak and Kannappan Palaniappan and Tomislav Kazic},
+  author    = {Dewi Endah Kharismawati and Hadi A. Akbarpour and Rumana Aktar and Filiz Bunyak and Kannappan Palaniappan and Toni Kazic},
   title     = {CorNet: Unsupervised Deep Homography Estimation for Agricultural Aerial Imagery},
   booktitle = {Computer Vision -- ECCV 2020 Workshops},
   editor    = {Andrea Bartoli and Andrea Fusiello},
